@@ -105,6 +105,12 @@ I cover all of these steps in my three books: [Django for Beginners](https://dja
 
 ----
 
+----
+## This is a starter
+
+----
+
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome! See [CONTRIBUTING.md](https://github.com/wsvincent/djangox/blob/master/CONTRIBUTING.md).
