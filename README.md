@@ -106,7 +106,7 @@ I cover all of these steps in my three books: [Django for Beginners](https://dja
 ----
 
 ----
-## This is a starter
+## This is a starte
 
 ----
 
